@@ -7,8 +7,8 @@ body {
     height: 400px;
     width: 400px;
     /*Suppression de la bordure du container */
-    /* border: solid 1px;           
-    border-color: red; */
+    /*border: solid 1px;           
+    border-color: red;*/
 }
 
 #circle {
